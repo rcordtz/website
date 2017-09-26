@@ -1,0 +1,13 @@
+name: "RC Website"
+output_dir: "."
+navbar:
+  title: "RC Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "C.V"
+      href: cv.html
+    - text: "Files"
+      href: files.html
